@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\bin\Debug\net6.0\ArrayTask3.exe
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\bin\Debug\net6.0\ArrayTask3.deps.json
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\bin\Debug\net6.0\ArrayTask3.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\bin\Debug\net6.0\ArrayTask3.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\bin\Debug\net6.0\ArrayTask3.pdb
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.sourcelink.json
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\refint\ArrayTask3.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.pdb
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ArrayTask3.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\ArrayTask1\ArrayTask3\ArrayTask3\obj\Debug\net6.0\ref\ArrayTask3.dll
